@@ -12,5 +12,7 @@ public class TesteTalvez {
 
     public static void main(String[] args) {
         System.out.println("Hello pra ver se funciona!");
+                System.out.println("Hello pra ver se funciona denovo!");
+
     }
 }
